@@ -6,5 +6,5 @@ Hacker News has 2 specific types of posts called Ask HN and Show HN. Users submi
 
 The goals of the project are simple:
 
-Which of the two, Ask HN or Show HN, has the higher number of average comments?
-Among the posts that have the higher average, does the time of posting affect the number of comments? If yes, what are the top 5 hours that recieve the most comments?
+1. Which of the two, Ask HN or Show HN, has the higher number of average comments?
+2. Among the posts that have the higher average, does the time of posting affect the number of comments? If yes, what are the top 5 hours that recieve the most comments?
